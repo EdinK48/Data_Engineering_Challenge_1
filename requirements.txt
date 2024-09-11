@@ -1,0 +1,4 @@
+duckdb==0.10.2
+requests==2.31.0
+ipython==8.24.0
+jupyter==1.0.0

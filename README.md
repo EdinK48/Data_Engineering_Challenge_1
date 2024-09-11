@@ -27,7 +27,7 @@ Your challenge is help our Business Development team increase their conversion r
   ```
   {
       "from": "<from-email-address>",
-      "to": "biz-dev@taktile.com",
+      "to": "biz-dev@company.com",
       "message": "<message-goes-here>",
       "subject": "<subject-goes-here>"
   }

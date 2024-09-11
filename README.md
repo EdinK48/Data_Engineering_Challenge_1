@@ -1,4 +1,4 @@
-# Taktile Data Engineering Take-Home Challenge
+# Data Engineering Take-Home Challenge
 
 Your challenge is help our Business Development team increase their conversion rate by implementing an alert system based on buying intent
 
